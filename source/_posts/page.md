@@ -1,10 +1,11 @@
 ---
-title: My First Page
+title: My hexoFirst Page
+comments: true
+toc: true
 date: 2021-09-25 23:32:04
-comments: true #是否可评论 
-layout: post # 公开文章 
-toc: true #是否显示文章目录
+tags:
 ---
+
 # 测试内容请勿点击
 ## 二级标题
 *斜体* 

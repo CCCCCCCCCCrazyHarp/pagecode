@@ -2,6 +2,7 @@
 title: My hexoFirst Page
 comments: true
 toc: true
+excerpt: 测试渲染
 date: 2021-09-25 23:32:04
 tags:
 ---

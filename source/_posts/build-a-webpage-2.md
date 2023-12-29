@@ -1,12 +1,11 @@
 ---
-title: 第一篇文章-搭建一个个人博客
+title: 搭建一个个人网站（2）
 tags:
   - 搭建网站
 comments: true
 toc: true
 date: 2023-12-29 21:08:44
 ---
-
 网站上线啦——将网站托管在github上
 <!-- more -->
 # 写在最前面

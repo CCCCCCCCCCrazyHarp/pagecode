@@ -102,3 +102,29 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+post:
+  banner_img: \bannerpic\banner1.jpg
+
+navbar:
+  blog_title: Crazy_harp的博客
+
+index:
+  banner_img: \bannerpic\banner1.jpg
+  slogan:
+    enable: true
+    text: 能和我写一辈子博客吗
+    api:
+      enable: false
+      url: "https://v1.hitokoto.cn/"
+      method: "GET"
+      headers: {}
+      keys: ["hitokoto"]
+
+fun_features:
+  typing: # 为 subtitle 添加打字机效果
+    enable: false
+    typeSpeed: 70 # 打印速度
+    cursorChar: "_" # 游标字符
+    loop: false # 是否循环播放效果
+
